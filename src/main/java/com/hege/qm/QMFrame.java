@@ -20,7 +20,7 @@ import java.awt.Toolkit;
 public class QMFrame extends JFrame{
 
 	/**
-	 * 
+	 * autother hege
 	 */
 	private static final long serialVersionUID = -1512677415080462588L;
 
